@@ -1,0 +1,6 @@
+# Binaries shipped via GitHub Releases, not tracked in git
+*.zip
+*.apk
+
+# Keep the module's app dir present even though the APK is ignored
+!.gitkeep

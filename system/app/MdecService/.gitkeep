@@ -1,0 +1,3 @@
+# MdecService.apk is not tracked in git (large binary, platform-signed).
+# Get it from a GitHub Release (mdec-cmc-full.zip) or pull from a Samsung
+# device's stock firmware: /system/app/MdecService/MdecService.apk

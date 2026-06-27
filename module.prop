@@ -1,0 +1,6 @@
+id=mdec_cmc
+name=Samsung CMC (Call & text on other devices)
+version=v1.0
+versionCode=1
+author=patrick
+description=Restores com.samsung.android.mdecservice on Samsung ROMs/ports where it was debloated. Installs the platform-signed APK post-boot if missing, enabling "Call & text on other devices".
